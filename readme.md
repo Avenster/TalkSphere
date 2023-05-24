@@ -1,5 +1,8 @@
-<span style="color: cyan;"><h3><b>TalksSphere is a dynamic and innovative community-based chatting application developed using Flutter. With TalksSphere, users can create and join diverse communities and groups for seamless messaging and interactive conversations.</b></h3></span>
+<h3 id="talks-sphere">TalksSphere is a dynamic and innovative community-based chatting application developed using Flutter. With TalksSphere, users can create and join diverse communities and groups for seamless messaging and interactive conversations.</h3>
 <hr>
+#talks-sphere {
+  color: cyan;
+}
 One of the standout features of TalksSphere is its automatic chat deletion functionality. Users can set a specific time duration, after which the messages in a chat are automatically deleted, ensuring privacy and keeping conversations fresh. This feature gives users the peace of mind that their conversations won't be stored indefinitely.
 
 
