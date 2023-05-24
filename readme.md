@@ -8,12 +8,12 @@ Additionally, TalksSphere doubles as a music player, providing a delightful audi
 
 Key Features:
 
-->Community-based chatting: Create and join communities based on shared interests and engage in group discussions.
-->Automatic chat deletion: Set a time limit for messages to be automatically deleted, ensuring privacy and keeping conversations clutter-free.
-->Live streaming: Host and participate in live streaming sessions with friends and community members.
-->Music player: Enjoy your favorite music tracks while interacting with others in chats and streaming sessions.
-->User-friendly interface: TalksSphere offers an intuitive and visually appealing interface, making it easy for users to navigate and engage with the application's features.
-->TalksSphere empowers users to build meaningful connections, explore shared interests, and experience seamless communication within an engaging and secure environment. Join the TalksSphere community and embark on a journey of limitless conversations and enriching social experiences.
+->Community-based chatting: Create and join communities based on shared interests and engage in group discussions.<br>
+->Automatic chat deletion: Set a time limit for messages to be automatically deleted, ensuring privacy and keeping conversations clutter-free.<br>
+->Live streaming: Host and participate in live streaming sessions with friends and community members.<br>
+->Music player: Enjoy your favorite music tracks while interacting with others in chats and streaming sessions.<br>
+->User-friendly interface: TalksSphere offers an intuitive and visually appealing interface, making it easy for users to navigate and engage with the application's features.<br>
+->TalksSphere empowers users to build meaningful connections, explore shared interests, and experience seamless communication within an engaging and secure environment. Join the TalksSphere community and embark on a journey of limitless conversations and enriching social experiences.<br>
 <br>
 ScreenShots:
 <br>
