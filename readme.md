@@ -16,7 +16,8 @@ Key Features:
 ->TalksSphere empowers users to build meaningful connections, explore shared interests, and experience seamless communication within an engaging and secure environment. Join the TalksSphere community and embark on a journey of limitless conversations and enriching social experiences.
 <br>
 ScreenShots:
-<img width="270" alt="Screenshot 2023-05-24 at 5 24 47 PM" src="https://github.com/Avenster/TalkSphere/assets/97340597/2c2b8c64-b6f8-4f83-a39a-4829a57065a2">
+<img width="398" alt="Screenshot 2023-05-24 at 11 30 24 PM" src="https://github.com/Avenster/TalkSphere/assets/97340597/e3aa795f-29fd-4244-ba17-73627b72ddf5">
+
 <img width="395" alt="Screenshot 2023-05-24 at 11 26 46 PM" src="https://github.com/Avenster/TalkSphere/assets/97340597/3a73c681-bcef-49f4-822b-42433c854ac7">
 <img width="395" alt="Screenshot 2023-05-24 at 11 28 35 PM" src="https://github.com/Avenster/TalkSphere/assets/97340597/1f5cca61-bf4a-41cd-989c-fef72779b75d"><img width="395" alt="Screenshot 2023-05-24 at 11 28 55 PM" src="https://github.com/Avenster/TalkSphere/assets/97340597/ffb0e790-d31a-43d1-be50-f60f1f7f1d6a">
 <img width="802" alt="Screenshot 2023-05-24 at 11 29 24 PM" src="https://github.com/Avenster/TalkSphere/assets/97340597/ad2654b8-4e65-4311-82d1-dffee7a648cd">
